@@ -1,6 +1,6 @@
 ## Hi, my name is Thami! <3
 
-I'm in the second semester of SI college and I'm happy learning! I'm 20 years old and also looking for a job and more growth opportunities :)
+Estou no quarto semestre de Sistemas para Internet, e sou apaixonada por programação e design! 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="thami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
